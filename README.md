@@ -1,9 +1,7 @@
 ### About Me
 - 💻 CSE undergraduate student (2021~)
 - 🙂 Interested in ML/DL, Backend development
-- Serving in the ROKAF (2022.04.25~2024.01.24) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0neh3ad&layout=compact)
+- Serving in the ROKAF (2022.04.25~2024.01.24)
 
 ### 🌱 Skills
 
@@ -23,3 +21,7 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B0neh3ad&layout=compact)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=js1044k)](https://solved.ac/js1044k)
