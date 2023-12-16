@@ -1,8 +1,8 @@
 ### About Me
 - 💻 CSE undergraduate student (2021~)
 - 🙂 Interested in ML/DL, Backend development
-- Serving in ROKAF (2022.04.25~2024.01.24)
-- 2nd in 2023 [MAICON](https://maicon.kr/)(Military AI Competition), as team 'RokafNet' (Team Leader)
+- Serving in [ROKAF](https://rokaf.airforce.mil.kr/sites/airforce/index.do) (2022.04.25~2024.01.24)
+- **2nd** in 2023 [MAICON](https://maicon.kr/)(Military AI Competition), as team '[RokafNet](https://github.com/RokafNet/rokafnet)' (Team Leader)
 
 ### 🌱 Skills
 
