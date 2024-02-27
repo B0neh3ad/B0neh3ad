@@ -1,4 +1,5 @@
-![img](https://ibb.co/k8R74d9)
+<img src="https://i.ibb.co/BZXpy1r/please.jpg" alt="제발 인생을 날로 먹을 수 있게 해주세요" width="300" height="300" />
+
 ### About Me
 - 💻 CSE undergraduate student (2021~)
 - 🙂 Interested in ML/DL, Backend development
