@@ -11,6 +11,7 @@
       </ul>
       <li><strong>2nd</strong> in 2023 <a href="https://maicon.kr/">MAICON</a>(Military AI Competition), as team 'RokafNet' (Team Leader) (<a href="https://github.com/RokafNet/rokafnet">model repo</a>)</li>
       <li><strong>4th</strong> in 2024 SNU FastMRI Challenge, as team '샤샤(shasha)'(<a href="https://www.youtube.com/watch?v=ho63rjf3XVs">review video</a>)</li>
+      <li>2024 ICPC Seoul Regional <strong>Quaified</strong> (<strong>19th</strong> / 88 teams), as team '202124'(<a href="http://static.icpckorea.net/2024/regional/scoreboard/">Scoreboard</a>)</li>
     </ul>
 </details>
 
