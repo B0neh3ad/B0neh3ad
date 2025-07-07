@@ -14,9 +14,3 @@
       <li>2024 ICPC Seoul Regional <strong>Quaified</strong> (<strong>19th</strong> / 88 teams), as team '202124'(<a href="http://static.icpckorea.net/2024/regional/scoreboard/">Scoreboard</a>)</li>
     </ul>
 </details>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FB0neh3ad&count_bg=%231AABED&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<details>
-  <summary>🙏</summary>
-  <img src="https://i.ibb.co/BZXpy1r/please.jpg" alt="제발 인생을 날로 먹을 수 있게 해주세요" width="300" height="300" />
-</details>
